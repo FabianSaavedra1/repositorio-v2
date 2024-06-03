@@ -1,0 +1,23 @@
+
+  body {
+    background: linear-gradient(to top left, red, black);
+}
+
+.custom-section {
+  padding: 20px;
+  background-color: rgb(0, 0, 0);
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.custom-image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+
+
+
+
+
+
